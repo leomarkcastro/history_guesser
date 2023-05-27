@@ -1,0 +1,7 @@
+History Guesser. You'll get the exact date (month, day and year of the event)
+
+You'll be given a description of that day.
+
+You can give a day and it will tell you if your guess is right or wrong.
+If you gave a wrong date, it will instead give an event that happened that day and add it before or after your event.
+
